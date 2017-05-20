@@ -1,0 +1,156 @@
+/*pimer ejercicio*/
+.caja{
+	display: block;
+}
+
+.uno{
+	width: 600px;
+	background-color: yellow;
+	margin: 0 ;
+	padding: 20px;
+}
+.dos{
+	margin: 0;
+	width: 600px;
+	background-color: #E3486C;
+	padding: 20px;
+	margin: 0;
+	border: 1px solid black;
+		
+}
+.tres{
+	width: 600px;
+	background-color: yellow;
+	margin: 0;
+	padding: 20px;
+	}	
+
+/*Segundo ejercicio*/
+.caja2{
+	display: block;
+
+}
+
+.uno2{
+	width: 200px;
+	background-color: yellow;
+	padding: 20px;
+
+
+}
+.dos2{
+	width: 200px;
+	background-color: #E3486C;
+	padding: 20px;
+	
+}
+.tres2{
+	width: 200px;
+	background-color: yellow;
+	padding: 20px;
+}	
+
+/*ejercicio tercero*/
+.caja3{
+
+	display: inline-block;
+}
+
+.uno3{
+	width: 100px;
+	background-color: yellow;
+	padding: 10px;
+}
+.dos3{
+	width: 30px;
+	background-color: #E3486C;
+	padding: 10px;
+	margin-right: 10px;
+	margin-left: 10px;	
+}
+.tres3{
+	width: 150px;
+	background-color: yellow;
+	padding: 10px;
+	}
+
+/*ejercicio cuarto*/
+.caja4{
+	display: inline-block;
+	margin: 2px;
+}
+
+.uno4{
+	background-color: yellow;
+	width: 170px;
+  	height: 50px;
+   	padding: 5px;
+}
+.dos4{
+	background-color: #E3486C;
+	width: 170px;
+  	height: 50px;
+   	padding: 5px;;
+		
+}
+.tres4{
+	background-color: yellow;
+	width: 170px;
+  	height: 50px;
+   	padding: 5px;
+}
+
+
+
+/*ejercicio quinto*/
+.uno5{
+	display: inline-block;
+	width: 50px;
+	font-size: 20px;
+	background-color: #D8215E;
+	padding: 40px;
+	border: 5px solid black;
+	margin-left: 20px;
+
+}
+.dos5 span {
+	display: inline-block;
+	font-size: 20px;
+    background-color: #F8A188;
+      /*modelo de caja*/
+    width: 30px;
+    height: 10px;
+    padding: 50px;
+    border: 5px solid #874205;
+    margin: 20px;
+}
+
+.box{ 
+	width: 560px;
+	display: inline-box;
+	background-color: #DC5322;
+	padding: 10px;
+	margin: 20px;
+}
+
+.tres5 span{
+	display: inline-block;
+	font-size: 20px;
+    background-color: #25C1A2;
+      /*modelo de caja*/
+    width: 30px;
+    height: 10px;
+    padding: 50px;
+    border: 5px solid #425BCC;
+    margin: 20px;
+}
+
+.cuatro5{
+	display: inline-block;
+	width: 50px;
+	font-size: 20px;
+	background-color: #B23838;
+	padding: 40px;
+	border: 5px solid #E910E9;
+	margin-left: 20px;
+}
